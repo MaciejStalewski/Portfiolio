@@ -24,5 +24,5 @@ Cześć, jest Maciej Stalewski, a to moje protfolio, w którym znajdziesz:
 - **język angielski B2**
 
 # Certyfikaty/Kursy
-- **Postman od podstaw - testowanie REST API**(https://www.udemy.com/certificate/UC-2a67a186-dc0e-4d9a-86d1-c8374cdd7755/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
+- **[Postman od podstaw - testowanie REST API](https://www.udemy.com/certificate/UC-2a67a186-dc0e-4d9a-86d1-c8374cdd7755/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)**
 - **
