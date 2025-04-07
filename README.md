@@ -13,6 +13,7 @@ Cześć, jest Maciej Stalewski, a to moje protfolio, w którym znajdziesz:
 - **Jenkins**
 - **Scrum**
 - **Testrail**
+- **Git**
 
 # Umiejętności
 - **tworzenie przypadków testowych**
