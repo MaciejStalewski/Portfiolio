@@ -22,7 +22,7 @@ Cześć, jest Maciej Stalewski, a to moje protfolio, w którym znajdziesz:
 - **znajomość metodologi pracy w SCRUM**
 - **znajomość podstawowych polecen w SQL**
 - **znajomość działania Chrome Devtools**
-- **znajomość podstawych poleceń REST API**
+- **testowanie API za pomocą Postmana**
 - **język angielski B2**
 
 # Certyfikaty/Kursy
