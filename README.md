@@ -5,7 +5,7 @@ Cześć, jest Maciej Stalewski, a to moje protfolio, w którym znajdziesz:
  - **zgłoszone błędy**
  - **polecenia w MYSQL**
 
-# Technologie
+# Technologie I Narzędzia
 - **Jira**
 - **Postman**
 - **SQL**
