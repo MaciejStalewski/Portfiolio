@@ -23,9 +23,9 @@ Cześć, jestem Maciej Stalewski, a to moje protfolio, w którym znajdziesz:
 - **testowanie oprogramowania**
 - **znajomość metodologi pracy w SCRUM**
 - **znajomość podstawowych polecen w SQL**
-- **testowanie API w Pythonie**
+- **testowanie API w Pythonie z biblioteką request**
 - **testowanie API oraz pisanie testów automatycznych w Postmanie**
-- **tworzenie testów automatycznych w Pythonie z biblioteką request**
+- **tworzenie testów automatycznych w Pythonie(Pytest)**
 - **tworzenie testów automatycznych w Postmanie**
 - **znajomość działania Chrome Devtools**
 - **język angielski B2**
