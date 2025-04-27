@@ -9,6 +9,8 @@ Cześć, jestem Maciej Stalewski, a to moje protfolio, w którym znajdziesz:
 - **Jira**
 - **Postman**
 - **SQL**
+-  **Pytest**
+- **Python**
 - **Newman**
 - **Jenkins**
 - **Scrum**
@@ -21,8 +23,12 @@ Cześć, jestem Maciej Stalewski, a to moje protfolio, w którym znajdziesz:
 - **testowanie oprogramowania**
 - **znajomość metodologi pracy w SCRUM**
 - **znajomość podstawowych polecen w SQL**
+- **Python**
+- **testowanie API w Pythonie**
+- **Pytest**
 - **znajomość działania Chrome Devtools**
 - **testowanie API za pomocą Postmana**
+- **tworzenie testów automatycznych w Postmanie**
 - **język angielski B2**
 
 # Certyfikaty/Kursy
