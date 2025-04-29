@@ -9,8 +9,9 @@ Cześć, jestem Maciej Stalewski, a to moje protfolio, w którym znajdziesz:
 - **Jira**
 - **Postman**
 - **SQL**
--  **Pytest**
+- **Pytest**
 - **Python**
+- **Selenium**
 - **Newman**
 - **Jenkins**
 - **Scrum**
