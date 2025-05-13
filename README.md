@@ -2,6 +2,7 @@
 
 Cześć, jestem Maciej Stalewski, a to moje protfolio, w którym znajdziesz:
  - **przypadki testowe**
+ - **testy automatyczne w Selenium**
  - **zgłoszone błędy**
  - **polecenia w MYSQL**
 
